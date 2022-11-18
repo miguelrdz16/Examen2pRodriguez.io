@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    box-sizing: border-box;
+}
+.encabezado_MRM img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedor_MRM{
+    background-color: navy;
+}
+.párrafo_MRM{
+    width: 60%;
+    padding: 10px;
+    background-color:navy;
+    margin: auto;
+}
+p{
+    color: aqua;
+    font-size: 2em;
+    padding: 10px;
+    background-color: orange;
+}
+.párrafo_MRM img{
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+h2{
+    color: aqua;
+    background-color: red;
+    font-size: 3em;
+    padding: auto;
+}
+li{
+    color: aqua;
+    background-color: orange;
+    font-size: 2em;
+    padding: 5px;
+}
